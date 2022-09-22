@@ -1,0 +1,1 @@
+{"version":3,"file":"index.css","mappings":";;;AACI;EACI;AAAR,C","sources":["webpack://wordpress-helper-plugin/./inc/Blocks/main.scss"],"sourcesContent":["div {\r\n    p {\r\n        padding: 10px;\r\n    }\r\n}"],"names":[],"sourceRoot":""}

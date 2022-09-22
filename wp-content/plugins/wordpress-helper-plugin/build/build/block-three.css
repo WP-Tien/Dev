@@ -1,0 +1,12 @@
+/*!*******************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./node_modules/@wordpress/scripts/node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[3]!./inc/blocks/block-three/editor.scss ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************************/
+.wp-block-vincent-third-block {
+  color: #fff;
+  background: #00a8db;
+  border: 2px solid #0d72b2;
+  padding: 20px;
+  font-family: sans-serif;
+}
+
+/*# sourceMappingURL=block-three.css.map*/

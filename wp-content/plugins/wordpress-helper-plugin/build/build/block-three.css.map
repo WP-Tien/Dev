@@ -1,0 +1,1 @@
+{"version":3,"file":"block-three.css","mappings":";;;AAAA;EACC;EACA;EACA;EACA;EACA;AACD,C","sources":["webpack://vincent/./inc/blocks/block-three/editor.scss"],"sourcesContent":[".wp-block-vincent-third-block {\r\n\tcolor: #fff;\r\n\tbackground: #00a8db;\r\n\tborder: 2px solid #0d72b2;\r\n\tpadding: 20px;\r\n\tfont-family: sans-serif;\r\n}"],"names":[],"sourceRoot":""}

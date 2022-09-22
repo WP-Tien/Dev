@@ -1,0 +1,12 @@
+{
+    "apiVersion": 2,
+    "name": "vincent/five-block",
+    "version": "1.0.0",
+    "title": "Five Block",
+    "category": "test",
+    "icon": "smiley",
+    "description": "The five block!",
+    "editorScript": "file:../../../build/block-five.js",
+    "editorStyle": "file:../../../build/block-five.js",
+    "style": "file:../../../build/style-block-five.css"
+}

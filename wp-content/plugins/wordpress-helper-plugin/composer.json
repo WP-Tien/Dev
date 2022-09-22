@@ -1,0 +1,15 @@
+{
+    "name": "wordpress/wordpress-helper-plugin",
+    "autoload": {
+        "psr-4": {
+            "Inc\\": "inc/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wordpress",
+            "email": "nguyenhuutien.it.3895@gmail.com"
+        }
+    ],
+    "require": {}
+}

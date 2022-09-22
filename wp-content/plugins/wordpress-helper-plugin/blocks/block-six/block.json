@@ -1,0 +1,26 @@
+{
+    "apiVersion": 2,
+    "name": "vincent/six-block",
+    "version": "1.0.0",
+    "title": "Six Block",
+    "category": "test",
+    "icon": "smiley",
+    "description": "The six block!",
+    "editorScript": "file:../../../build/block-six.js",
+    "editorStyle": "file:../../../build/block-six.js",
+    "style": "file:../../../build/style-block-six.css",
+    "attributes": {
+        "content": {
+            "type": "string",
+            "source": "html",
+            "selector": "p"
+        }
+    },
+    "supports": {
+        "color": {
+            "text": true,
+            "link": true,
+            "background": true
+        }
+    }
+}

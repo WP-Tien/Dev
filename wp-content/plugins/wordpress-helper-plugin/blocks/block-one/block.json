@@ -1,0 +1,16 @@
+{
+    "apiVersion": 2,
+    "name": "vincent/first-block",
+    "version": "1.0.0",
+    "title": "First Block",
+    "category": "test",
+    "icon": "smiley",
+    "description": "The first block!",
+    "supports": {
+        "html": false
+    },
+    "text-domain": "vincent",
+    "editorScript": "file:../../../build/block-one.js",
+    "editorStyle": "file:../../../build/block-one.js",
+    "style": "file:../../../build/style-block-one.css"
+}

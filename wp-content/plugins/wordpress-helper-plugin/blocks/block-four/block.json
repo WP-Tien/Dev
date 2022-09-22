@@ -1,0 +1,39 @@
+{
+    "apiVersion": 2,
+    "name": "vincent/four-block",
+    "version": "1.0.0",
+    "title": "Four Block",
+    "category": "test",
+    "icon": "smiley",
+    "description": "The four block!",
+    "attributes": {
+        "title": {
+            "type": "string",
+            "source": "html",
+            "selector": "h2"
+        },
+        "mediaID": {
+            "type": "number"
+        },
+        "mediaURL": {
+            "type": "string",
+            "source": "attribute",
+            "selector": "img",
+            "attribute": "src"
+        },
+        "ingredients": {
+            "type": "string",
+            "source": "html",
+            "selector": ".ingredients"
+        },
+        "instructions": {
+            "type": "string",
+            "source": "html",
+            "selector": ".steps"
+        }
+    },
+    "text-domain": "vincent",
+    "editorScript": "file:../../../build/block-four.js",
+    "editorStyle": "file:../../../build/block-four.js",
+    "style": "file:../../../build/style-block-four.css"
+}

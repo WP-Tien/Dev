@@ -1,0 +1,16 @@
+{
+    "browserSyncOptions": {
+        "proxy": "http://localhost/wordpress_plugin/",
+        "notify": false,
+        "browser": ["firefox", "chrome"]
+	},
+	"browserSyncWatchFiles": ["./assets/css/*.css", "./assets/js/scripts.js", "./*/**.php"],
+    "paths" : {
+        "js" : "./assets/js",
+        "css" : "./assets/css",
+        "img" : "./assets/images",
+        "sass" : "./assets/sass",
+        "resource" : "./resource",
+        "node": "./node_modules"
+    }
+}

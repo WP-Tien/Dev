@@ -1,0 +1,20 @@
+{
+    "apiVersion": 2,
+    "name": "vincent/second-block",
+    "version": "1.0.0",
+    "title": "Call to action",
+    "category": "test",
+    "icon": "smiley",    
+    "description": "The second block!",
+    "text-domain": "vincent",
+    "attributes": {
+        "content": {
+            "type": "string",
+            "source": "html",
+            "selector": "p"
+        }
+    },
+    "editorScript": "file:../../../build/block-two.js",
+    "editorStyle": "file:../../../build/block-two.js",
+    "style": "file:../../../build/style-block-two.css"
+}
